@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+לימוד אנגלית מהיר ואפקטיבי לאנשים עסוקים. שיטה מוכחת שמאפשרת לך ללמוד אנגלית 10 דקות ביום ולראות תוצאות מיידיות. התחל עכשיו בחינם!
+
+### שיטה
+https://example.com/method
+גלה את שיטת הלימוד הייחודית שהופכת 10 דקות ביום לקורס אנגלית קצר ואפקטיבי. מדע מוכח, תוצאות מובטחות. למד איך זה עובד ותתחיל היום!
+
+### אודות
+https://example.com/about
+הכר את הצוות שפיתח את שיטת לימוד האנגלית המהירה בישראל. ניסיון של שנים בהוראה, אלפי תלמידים מרוצים, ומחויבות להצלחה שלך. קרא את הסיפור שלנו!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות? רוצה להתחיל ללמוד אנגלית 10 דקות ביום? צור איתנו קשר עכשיו לייעוץ חינם ותגלה איך השיטה שלנו תשנה את האנגלית שלך לנצח!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ללמוד אנגלית תוך 10 דקות
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ללמוד אנגלית תוך 10 דקות
+
+### Category
+https://example.com/category/:slug
+מוצרים - ללמוד אנגלית תוך 10 דקות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
